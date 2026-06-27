@@ -1,0 +1,11 @@
+// manifest.json
+{
+  "id": "novel-importer",
+  "display_name": "Novel Importer",
+  "version": "1.0.0",
+  "description": "Import TXT novels chapter by chapter into chat format",
+  "author": "DD",
+  "requires": ["chat"],
+  "js": "index.js",
+  "css": "style.css"
+}
