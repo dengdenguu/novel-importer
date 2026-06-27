@@ -1,7 +1,7 @@
 {
-  "name": "TXT 小说导入器",
-  "version": "1.0.0",
-  "description": "导入 TXT 小说，按章节奇偶分配给不同角色，保留原文格式。",
-  "author": "DD",
-  "entry": "index.js"
+    "name": "TXT小说对话导入器",
+    "version": "1.0.0",
+    "description": "导入 TXT 格式小说，自动按章节拆分，奇数章设为“我”的发言，偶数章设为“对方”的发言，保留原文段落格式。适配双端。",
+    "author": "DD",
+    "entry": "index.js"
 }
