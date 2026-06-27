@@ -1,11 +1,7 @@
-// manifest.json
 {
-  "id": "novel-importer",
-  "display_name": "Novel Importer",
+  "name": "TXT 小说导入器",
   "version": "1.0.0",
-  "description": "Import TXT novels chapter by chapter into chat format",
+  "description": "导入 TXT 小说，按章节奇偶分配给不同角色，保留原文格式。",
   "author": "DD",
-  "requires": ["chat"],
-  "js": "index.js",
-  "css": "style.css"
+  "entry": "index.js"
 }
